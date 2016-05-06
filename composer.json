@@ -1,0 +1,17 @@
+{
+    "name": "katsuo-ryuu/kryuu-module-creator",
+    "description": "This is for helping create a new module, the newly build template will be stored in the defaule data folder",
+    "license": "Ryuu Technology Free License",
+    "keywords": [
+        "zf2",
+        "Console"
+    ],
+    "homepage": "https://github.com/KatsuoRyuu/KryuuTemplateBuilder",
+    "require": {
+        "php": "^5.5 || ^7.0",
+        "zendframework/zendframework": "^2.5",
+        "katsuo-ryuu/kryuu-template-builder": "dev-master",
+        "katsuo-ryuu/kryuu-occasus": "dev-master",
+        "katsuo-ryuu/kryuu-cool-console": "dev-master"
+    }
+}
